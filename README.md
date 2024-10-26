@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=venom&color=1a1b27&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=#F08080&height=300&section=header&text=capsule%20render&fontSize=90)
 <!--
 **00-Hye-Eun-00/00-Hye-Eun-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
